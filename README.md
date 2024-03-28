@@ -3,15 +3,16 @@
 ## About Me
 
 I'm a recent Computer Science graduate from Bar-Ilan University, eager to kickstart my career in the software industry. My interests include Object-Oriented Programming, Multi-Processor Programming, Deep Learning, and Game Development.
+With a solid foundation in software engineering principles and a keen interest in iOS development
 
 ## 🛠️ Tech Stack
 
-- **Proficient:** C, C++, C#, Java
-- **Intermediate:** Python
+- **Proficient:** Swift, C/C++, C#
+- **Intermediate:** Python,Java
 - **Familiar:** JavaScript, Assembly, Go
 
 ## 🌐 Interests
-
+- iOS Development
 - Object-Oriented Programming
 - Multi-Processor Programming
 - Deep Learning
@@ -19,11 +20,11 @@ I'm a recent Computer Science graduate from Bar-Ilan University, eager to kickst
 
 ## 🎯 Goals
 
-I'm eager to contribute to dynamic teams and innovate in the field of software development. I'm particularly interested in optimizing algorithms and working on impactful projects.
+My goal is to innovate and make significant contributions to projects that challenge me and allow for personal and professional growth. I'm especially interested in projects that leverage my skills in Swift, SwiftUI, and game development.
 
 ## 🔭 Current Project
 
-I'm currently working on optimizing Artificial Neural Networks using Genetic Algorithms. You can check out the project [here](https://github.com/your-username/your-repo-name).
+I'm currently working on "Novies," an app designed to recommend movies. Built with Swift and SwiftUI, Novies aims to create a personalized movie discovery experience for users. This project is a testament to my growth as a developer and my passion for combining software development with entertainment.
 
 ## 📫 How to Reach Me
 
